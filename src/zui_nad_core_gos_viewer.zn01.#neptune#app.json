@@ -1,0 +1,14 @@
+[
+  {
+    "app_type": "A",
+    "clsname": "ZCL_NAD_CORE_GOS_VIEWER",
+    "title": "GOS Viewer Mobile",
+    "descr": "GOS Viewer Mobile",
+    "descr_mc": "GOS VIEWER MOBILE",
+    "library": "5",
+    "ui5_m": "X",
+    "icfnode": "SDK",
+    "origin": "000000000",
+    "sqlite_type": 0
+  }
+]

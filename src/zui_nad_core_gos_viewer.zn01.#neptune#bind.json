@@ -1,0 +1,9 @@
+[
+  {
+    "field_id": "00051",
+    "bind_object": "DATA",
+    "bind_type": "u",
+    "binding": "WA_ATTACHMENT",
+    "binding_root_field_id": "00000"
+  }
+]

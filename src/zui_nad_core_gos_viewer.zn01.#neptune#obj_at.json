@@ -1,0 +1,56 @@
+[
+  {
+    "field_id": "00002",
+    "attribute": "appWidthLimited",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00003",
+    "attribute": "backgroundColor",
+    "grouping": "Properties",
+    "value": "#ccc"
+  },
+  {
+    "field_id": "00047",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "No PDF Data received"
+  },
+  {
+    "field_id": "00048",
+    "attribute": "description",
+    "grouping": "Properties",
+    "value": "please wait..."
+  },
+  {
+    "field_id": "00048",
+    "attribute": "showHeader",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00048",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Document Loading"
+  },
+  {
+    "field_id": "00050",
+    "attribute": "ajaxError",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00050",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "showAttachment();"
+  },
+  {
+    "field_id": "00052",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Error loading data"
+  }
+]

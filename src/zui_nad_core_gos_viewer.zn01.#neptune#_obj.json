@@ -1,0 +1,161 @@
+[
+  {
+    "field_id": "00001",
+    "version": "0001",
+    "field_name": "HTML5 Document",
+    "field_type": "HTML5 DOC",
+    "field_pos": "00001",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00002",
+    "version": "0001",
+    "field_name": "oShell",
+    "field_type": "UM5_SHELL",
+    "field_pos": "00002",
+    "field_parent": "00001",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00003",
+    "version": "0001",
+    "field_name": "oApp",
+    "field_type": "UM5_APP",
+    "field_pos": "00003",
+    "field_parent": "00002",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00025",
+    "version": "0001",
+    "field_name": "Functions",
+    "field_type": "SCRIPT",
+    "field_pos": "00014",
+    "field_parent": "00054",
+    "calculate_date": 0,
+    "flag5": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00026",
+    "version": "0001",
+    "field_name": "oPageHidden",
+    "field_type": "UM5_PAGE",
+    "field_pos": "00005",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00047",
+    "version": "0001",
+    "field_name": "txtTranslate_NoData",
+    "field_type": "UM5_TEXT",
+    "field_pos": "00007",
+    "field_parent": "00026",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00048",
+    "version": "0001",
+    "field_name": "oPageStart",
+    "field_type": "UM5_PAGEME",
+    "field_pos": "00004",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00049",
+    "version": "0001",
+    "field_name": "Init",
+    "field_type": "SCRIPT",
+    "field_pos": "00013",
+    "field_parent": "00054",
+    "calculate_date": 0,
+    "flag5": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00050",
+    "version": "0001",
+    "field_name": "GetData",
+    "field_type": "UM5_AJAX",
+    "field_pos": "00012",
+    "field_parent": "00055",
+    "event_id": "GET_DATA",
+    "calculate_date": 0,
+    "flag5": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00051",
+    "version": "0001",
+    "field_name": "Attachment",
+    "field_type": "UM5_PANEL",
+    "field_pos": "00006",
+    "field_parent": "00026",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00052",
+    "version": "0001",
+    "field_name": "txtErrorLoading",
+    "field_type": "UM5_TEXT",
+    "field_pos": "00008",
+    "field_parent": "00026",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00053",
+    "version": "0001",
+    "field_name": "Resources",
+    "field_type": "RESOURCES",
+    "field_pos": "00009",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00054",
+    "version": "0001",
+    "field_name": "Script",
+    "field_type": "UM5_RESFOL",
+    "field_pos": "00010",
+    "field_parent": "00053",
+    "is_container": "X",
+    "calculate_date": 0,
+    "flag5": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00055",
+    "version": "0001",
+    "field_name": "API",
+    "field_type": "UM5_RESFOL",
+    "field_pos": "00011",
+    "field_parent": "00053",
+    "is_container": "X",
+    "calculate_date": 0,
+    "flag5": "X",
+    "extend_id": "00000"
+  }
+]
